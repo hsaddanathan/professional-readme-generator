@@ -1,10 +1,10 @@
-# Generated test
+# Test
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
 
 
   ## Description
-Writes a readme
+It tests my readme generator
 
   ## Table of Contents
   
@@ -12,16 +12,16 @@ Writes a readme
   * [Tests](#Tests)
   * [Technology](#Technology)
   * [Contributors](#Contributors)
-  * [Installation](#Installation)
+  * [License](#License)
   
   ## Live Link
-  https://www.github.com
+  https://wwww.github.com
 
   ## Installation
-  node
+  node js
   
   ## Tests
-  no tests at this time
+  no test at this time
   
   ## Technology
   nodejs
@@ -33,3 +33,6 @@ Writes a readme
   If you have any questions please email or checkout my github:
   Email: hsaddanathan21@gmail.com
   Github: https://github.com/hsaddanathan
+
+  ##License
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
