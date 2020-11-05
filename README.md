@@ -23,10 +23,8 @@ From there, open your terminal inside VS Code by using the keyboard shortcut "Ct
 Once you have done this, type "node index.js" to run the program and answer the prompts.
 
 ## Video
-<!-- ![Top of Page](assets/workday-scheduler-top.png)
-Image shows the top of work day scheduler
-![Bottom of page](assets/workday-scheduler-bottom.png)
-Image shows the bottom of work day scheduler -->
+![Video Demo](Assets/readme-generator.mp4)
+
 
 ## Links
 
