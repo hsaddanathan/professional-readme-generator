@@ -23,7 +23,7 @@ From there, open your terminal inside VS Code by using the keyboard shortcut "Ct
 Once you have done this, type "node index.js" to run the program and answer the prompts.
 
 ## Video
-![Video Demo](Assets/readme-generator.mp4)
+<!-- ![Video Demo](Assets/readme-generator.mp4) -->
 
 
 ## Links
