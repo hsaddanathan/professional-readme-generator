@@ -36,7 +36,7 @@ const questions = [
       },
       {
         type: 'input',
-        name: 'contributers',
+        name: 'contributors',
         message: 'Who contributed to your project?',
       },
       {
@@ -58,13 +58,9 @@ const questions = [
 
 ];
 
-// function to write README file
-// function writeToFile(fileName, data) {
-    
-// }
-
 // function to initialize program
-function init() {
+const init= () => {
+    //Inquirer prompts above defined questions then writes the readme file
     inquirer.prompt(questions).then((data)=>{
         const fileName = `${data.title.toLowerCase().split(" ").join("-")}-README.md`;
         fs.writeFile(fileName,generateMarkdown(data), (err) => err ? console.error(err) : console.log('Success!'));
