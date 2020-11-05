@@ -1,7 +1,9 @@
 # Test Generated
   
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
   ## Description
-Tests readme generator
+  Tests readme generator
 
   ## Table of Contents
   
@@ -12,13 +14,13 @@ Tests readme generator
   * [License](#License)
   
   ## Live Link
-  https://github.com
+  https://www.github.com
 
   ## Installation
   github
   
   ## Tests
-  no tests at this time
+  No tests at this time.
   
   ## Technology
   node.js and inquirer
@@ -32,4 +34,4 @@ Tests readme generator
   Github: https://github.com/hsaddanathan
 
   ## License
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  MIT
