@@ -1,7 +1,10 @@
-# Help Me
+# Generated test
   
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
   ## Description
-Helps people
+Writes a readme
 
   ## Table of Contents
   
@@ -12,16 +15,16 @@ Helps people
   * [Installation](#Installation)
   
   ## Live Link
-  github.com
+  https://www.github.com
 
   ## Installation
-  Github
+  node
   
   ## Tests
-  none right now
+  no tests at this time
   
   ## Technology
-  node.js
+  nodejs
 
   ## Contributors
   undefined
