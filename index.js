@@ -17,12 +17,12 @@ const questions = [
     {
         type: 'input',
         name: 'install',
-        message: 'How do you install your application?',
+        message: 'How do you install your project?',
       },
       {
         type: 'input',
         name: 'test',
-        message: 'Are there any test instructions?',
+        message: 'How do you test this project?',
       },
       {
         type: 'input',
@@ -67,7 +67,7 @@ const questions = [
 function init() {
     inquirer.prompt(questions).then((data)=>{
         const fileName = `${data.title.toLowerCase().split(" ").join("-")}-README.md`;
-        fs.writeFile(fileName,`ABCD`, (err) => err ? console.error(err) : console.log('Success!'));
+        fs.writeFile(fileName,generateMarkdown(data), (err) => err ? console.error(err) : console.log('Success!'));
     });
 }
 
