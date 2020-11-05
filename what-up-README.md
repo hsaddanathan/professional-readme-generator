@@ -1,10 +1,10 @@
-# Test
+# What up
   
   
 
 
   ## Description
-It tests my readme generator
+Asks you whats up
 
   ## Table of Contents
   
@@ -12,16 +12,16 @@ It tests my readme generator
   * [Tests](#Tests)
   * [Technology](#Technology)
   * [Contributors](#Contributors)
-  * [License](#License)
+  * [License](#Licsense)
   
   ## Live Link
-  https://wwww.github.com
+  https://www.github.com
 
   ## Installation
-  node js
+  Github
   
   ## Tests
-  no test at this time
+  No tests written at this time
   
   ## Technology
   nodejs
@@ -34,5 +34,5 @@ It tests my readme generator
   Email: hsaddanathan21@gmail.com
   Github: https://github.com/hsaddanathan
 
-  ##License
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  ## License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

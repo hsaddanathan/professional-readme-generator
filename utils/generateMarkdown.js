@@ -36,7 +36,7 @@ ${data.description}
   Email: ${data.email}
   Github: https://github.com/${data.github}
 
-  ##License
+  ## License
   ${
     (license => { 
       if(license === "MIT")
